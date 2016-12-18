@@ -1,7 +1,8 @@
 <?php
-namespace design\AbstractFactory;
+namespace Test;
+use design\AbstractFactory\HtmlFactory;
 
-class TestAbstractFactory extends \PHPUnit_Framework_TestCase
+class AbstractFactoryTest extends \PHPUnit_Framework_TestCase
 {
     public function testHtmlText()
     {
