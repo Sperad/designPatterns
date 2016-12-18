@@ -16,7 +16,7 @@
 
 ### 模式类型
 - 创建型
-    - [AbstractFactory（抽象工厂）](AbstractFactory/README.md)
+    - [AbstractFactory（抽象工厂）](AbstractFactory/)
     - 构建器模式
     - 工厂方法模式
     - 多例模式
