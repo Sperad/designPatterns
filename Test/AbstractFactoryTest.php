@@ -1,5 +1,6 @@
 <?php
 namespace Test;
+
 use design\AbstractFactory\HtmlFactory;
 use design\AbstractFactory\JsonFactory;
 
@@ -9,7 +10,7 @@ class AbstractFactoryTest extends \PHPUnit_Framework_TestCase
     {
         $factory = new HtmlFactory();
         $content = 'htmlContent';
-        $text = $factory->createText($content);
+        $text    = $factory->createText($content);
         $this->assertInstanceOf('design\AbstractFactory\HtmlText', $text);
         $this->assertEquals($content, $text->getText());
     }
@@ -18,7 +19,7 @@ class AbstractFactoryTest extends \PHPUnit_Framework_TestCase
     {
         $factory = new JsonFactory();
         $content = 'jsonContent';
-        $text = $factory->createText($content);
+        $text    = $factory->createText($content);
         $this->assertInstanceOf('design\AbstractFactory\JsonText', $text);
         $this->assertEquals($content, $text->getText());
     }
