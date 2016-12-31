@@ -19,7 +19,7 @@
 - 创建型
     - [AbstractFactory（抽象工厂）](AbstractFactory/)
     - [构建器模式](Build/)
-    - 工厂方法模式
+    - [工厂方法模式](FactoryMethod/)
     - 多例模式
     - 资源池模式
     - 原型模式
