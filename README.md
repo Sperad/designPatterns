@@ -20,7 +20,7 @@
     - [AbstractFactory（抽象工厂）](AbstractFactory/)
     - [构建器模式](Build/)
     - [工厂方法模式](FactoryMethod/)
-    - 多例模式
+    - [多例模式](Multiton/)
     - 资源池模式
     - 原型模式
     - 简单工厂模式
