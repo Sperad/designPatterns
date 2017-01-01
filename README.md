@@ -17,14 +17,15 @@
 
 ### 模式类型
 - 创建型
-    - [AbstractFactory（抽象工厂）](AbstractFactory/)
+    - [抽象工厂](AbstractFactory/)
     - [构建器模式](Build/)
     - [工厂方法模式](FactoryMethod/)
     - [多例模式](Multiton/)
     - [资源池模式](Pool/)
-    - 原型模式
-    - 简单工厂模式
-    - 单例模式
+    - [原型模式](Prototype/)
+    - [简单工厂模式](SimpleFactory/)
+    - [单例模式](Singleton/)
+    - [静态工厂](StaticFactory/)
 - 结构型
     - 桥接模式
     - 享元模式
