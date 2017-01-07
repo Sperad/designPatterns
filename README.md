@@ -18,23 +18,26 @@
 ### 模式类型
 - 创建型
     - [抽象工厂](AbstractFactory/)
-    - [构建器模式](Build/)
-    - [工厂方法模式](FactoryMethod/)
+    - [构建器](Build/)
+    - [工厂方法](FactoryMethod/)
     - [多例模式](Multiton/)
     - [资源池模式](Pool/)
     - [原型模式](Prototype/)
-    - [简单工厂模式](SimpleFactory/)
+    - [简单工厂](SimpleFactory/)
     - [单例模式](Singleton/)
     - [静态工厂](StaticFactory/)
 - 结构型
+    - [适配器模式](Adapter/)
     - 桥接模式
-    - 享元模式
-    - 外观模式
-    - 适配器模式
-    - 装饰器模式
     - 组合模式
+    - 映射模式
+    - 装饰模式
+    - 依赖注入
+    - 外观模式
+    - 流接口模式
+    - 享元模式
     - 代理模式
-    - 过滤器模式
+    - 注册模式
 - 行为型
     - 模板模式
     - 策略模式
