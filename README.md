@@ -31,7 +31,7 @@
     - [桥接模式](Bridge/)
     - [组合模式](Composite/)
     - [映射模式](DataMapper/)
-    - 装饰模式
+    - [装饰模式](Decorator/)
     - 依赖注入
     - 外观模式
     - 流接口模式
