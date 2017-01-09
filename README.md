@@ -36,7 +36,7 @@
     - [外观模式](Facade/)
     - [流模式](FluentInterface/)
     - [享元模式](Flyweight/)
-    - 代理模式
+    - [代理模式](Proxy/)
     - 注册模式
 - 行为型
     - 模板模式
