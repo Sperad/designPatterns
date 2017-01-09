@@ -34,8 +34,8 @@
     - [装饰模式](Decorator/)
     - [依赖注入](DependencyInjection/)
     - [外观模式](Facade/)
-    - 流接口模式
-    - 享元模式
+    - [流模式](FluentInterface/)
+    - [享元模式](Flyweight/)
     - 代理模式
     - 注册模式
 - 行为型
