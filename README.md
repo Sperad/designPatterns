@@ -33,7 +33,7 @@
     - [映射模式](DataMapper/)
     - [装饰模式](Decorator/)
     - [依赖注入](DependencyInjection/)
-    - 外观模式
+    - [外观模式](Facade/)
     - 流接口模式
     - 享元模式
     - 代理模式
