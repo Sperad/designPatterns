@@ -32,7 +32,7 @@
     - [组合模式](Composite/)
     - [映射模式](DataMapper/)
     - [装饰模式](Decorator/)
-    - 依赖注入
+    - [依赖注入](DependencyInjection/)
     - 外观模式
     - 流接口模式
     - 享元模式
