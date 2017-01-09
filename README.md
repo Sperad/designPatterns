@@ -37,7 +37,7 @@
     - [流模式](FluentInterface/)
     - [享元模式](Flyweight/)
     - [代理模式](Proxy/)
-    - 注册模式
+    - [注册模式](Registry/)
 - 行为型
     - 模板模式
     - 策略模式
