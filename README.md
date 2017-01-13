@@ -41,7 +41,7 @@
 - 行为型
     - [责任链模式](ChainOfResponsibilities/)
     - [命令模式](Command/)
-    - 迭代器模式
+    - [迭代器模式](Iterator/)
     - 中介者模式
     - 备忘录模式
     - 空对象模式
