@@ -49,5 +49,5 @@
     - [解释器模式](Specification/)
     - [状态模式](State/)
     - [策略模式](Strategy/)
-    - 模板模式
+    - [模板方法](Template/)
     - 访问者模式
