@@ -50,4 +50,4 @@
     - [状态模式](State/)
     - [策略模式](Strategy/)
     - [模板方法](Template/)
-    - 访问者模式
+    - [访问者模式](Visitor/)
