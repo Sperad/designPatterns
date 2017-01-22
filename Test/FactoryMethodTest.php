@@ -35,6 +35,9 @@ class FactoryMethodTest extends \PHPUnit_Framework_TestCase
         $this->assertInstanceOf('design\FactoryMethod\Vehicle\CarFerrari', $vehicle);
     }
 
+    /**
+     * @expectedException \InvalidArgumentException
+     */
     public function testUnknownType()
     {
         (new ItalianFactory())->create('spaceship');

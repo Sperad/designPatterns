@@ -17,6 +17,9 @@ class DataMapperTest extends \PHPUnit_Framework_TestCase
         $this->assertInstanceOf('design\DataMapper\User', $user);
     }
 
+    /**
+     * @expectedException \InvalidArgumentException
+     */
     public function testWillNotMapInvalidData()
     {
         $storage = new StorageAdapter([]);

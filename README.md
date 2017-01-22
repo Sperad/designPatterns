@@ -47,7 +47,7 @@
     - [空对象模式](NullObject/)
     - [观察者模式](Observer/)
     - [解释器模式](Specification/)
-    - 状态模式
+    - [状态模式](State/)
     - 策略模式
     - 模板模式
     - 访问者模式

@@ -18,6 +18,9 @@ class StaticFactoryTest extends \PHPUnit_Framework_TestCase
             StaticFactory::factory('string'));
     }
 
+    /**
+     * @expectedException \InvalidArgumentException
+     */
     public function testException()
     {
         StaticFactory::factory('formatName');
